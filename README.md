@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![CI Platform](https://github.com/opentargets/ot-ui-apps/actions/workflows/ci-platform.yml/badge.svg)](https://github.com/opentargets/ot-ui-apps/actions/workflows/ci-platform.yml)
 [![CI Genetics](https://github.com/opentargets/ot-ui-apps/actions/workflows/ci-genetics.yml/badge.svg)](https://github.com/opentargets/ot-ui-apps/actions/workflows/ci-genetics.yml)
 
@@ -41,3 +42,6 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+=======
+# OTP_S
+>>>>>>> origin/main
