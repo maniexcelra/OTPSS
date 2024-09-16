@@ -1,4 +1,4 @@
-FROM node:13 as build
+FROM node:12 as build
 # assert that a compatible yarn version is installed or fail
 RUN case `yarn --version` in 1.22*) true;; *) false;; esac
 COPY package.json yarn.lock /tmp/platform-app/
